@@ -1,4 +1,4 @@
-FROM python:3.11.1
+FROM python:3.8
 
 RUN pip install ipykernel && \
         python -m ipykernel install --sys-prefix
