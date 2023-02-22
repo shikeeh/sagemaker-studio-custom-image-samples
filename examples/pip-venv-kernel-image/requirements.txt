@@ -1,3 +1,6 @@
 boto3
 numpy
 pandas
+s3fs
+SageMaker
+-U --no-cache-dir bio_embeddings
